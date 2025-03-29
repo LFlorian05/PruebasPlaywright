@@ -2,6 +2,7 @@
 Prueba de herramientas
 
 Error:
+
 ![image](https://github.com/user-attachments/assets/71785be2-6692-4155-b669-5be07ae6d6eb)
 
 Corregido:
